@@ -1,5 +1,9 @@
 package com.example.mybatisdemo.Service;
 
-public class UserService {
+import com.example.mybatisdemo.Entity.User;
 
+import java.util.List;
+
+public interface UserService {
+    List<User> findAll();
 }
