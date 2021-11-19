@@ -1,4 +1,4 @@
-package service;
+package com.example.mybatisdemo;
 
 import org.junit.Test;
 
